@@ -1,21 +1,21 @@
-# Flightex
+Desafio Módulo 03 - Flightex - Ignite Elixir
 
-**TODO: Add description**
+Projeto:
 
-## Installation
+Desafio módulo 03 proposto pelo Ignite na trilha de Elixir da Rocketseat, para praticar e fixar o aprendizado criando o projeto Flightex no Elixir.
+Tecnologias Usadas:
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `flightex` to your list of dependencies in `mix.exs`:
+* Elixir
+* Erlang
 
-```elixir
-def deps do
-  [
-    {:flightex, "~> 0.1.0"}
-  ]
-end
-```
+Como Executar:
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/flightex](https://hexdocs.pm/flightex).
+* Após clonar o repositório, em um Terminal execute os seguintes comandos:
 
+* iex -S mix
+
+* BookingAgent.get_all()
+
+Importante:
+
+* Você deve possuir um ambiente apto a executar o Elixir.
